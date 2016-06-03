@@ -103,6 +103,7 @@
 * like(s)
 * link(s)
 * live
+* local
 * log(s)
 * login
 * logo(s)
